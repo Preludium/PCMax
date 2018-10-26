@@ -1,0 +1,3 @@
+﻿  Generator_optimum.cpp
+c:\users\barte\documents\studia\semestr 3\optymalizacja kombinatoryczna\pcmax\generator_optimum\generator_optimum\generator_optimum.cpp(12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generator_optimum.vcxproj -> C:\Users\barte\Documents\Studia\Semestr 3\Optymalizacja kombinatoryczna\PCMax\Generator_optimum\Debug\Generator_optimum.exe
