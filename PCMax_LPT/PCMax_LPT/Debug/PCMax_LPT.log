@@ -1,0 +1,4 @@
+﻿  PCMax_LPT.cpp
+c:\users\mikus\desktop\visual\git\pcmax_lpt\pcmax_lpt\pcmax_lpt.cpp(44): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\mikus\desktop\visual\git\pcmax_lpt\pcmax_lpt\pcmax_lpt.cpp(77): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  PCMax_LPT.vcxproj -> C:\Users\mikus\Desktop\Visual\Git\PCMax_LPT\Debug\PCMax_LPT.exe
