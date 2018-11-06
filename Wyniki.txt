@@ -1,0 +1,19 @@
+LPT:
+
+tasks1.txt	10604
+tasks2.txt	9879
+
+krystian1.txt	4563
+
+angeryk1.txt	1241
+angeryk2.txt	1143
+
+Zach³anny:
+
+tasks1.txt	10785
+tasks2.txt	10403
+
+krystian1.txt	5553
+
+angeryk1.txt	1459
+angeryk2.txt	1169
