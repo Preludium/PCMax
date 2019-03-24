@@ -1,8 +1,0 @@
-﻿  2.0.cpp
-C:\Users\mikus\Desktop\Visual\Git\2.0\2.0\2.0.cpp(115): warning C4244: "=": konwersja z "double" do "clock_t", możliwa utrata danych
-C:\Users\mikus\Desktop\Visual\Git\2.0\2.0\2.0.cpp(243): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\mikus\Desktop\Visual\Git\2.0\2.0\2.0.cpp(248): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\mikus\Desktop\Visual\Git\2.0\2.0\2.0.cpp(249): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\mikus\Desktop\Visual\Git\2.0\2.0\2.0.cpp(249): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
-C:\Users\mikus\Desktop\Visual\Git\2.0\2.0\2.0.cpp(373): warning C4715: "roulette”: niewszystkie ścieżki kodu zwracają wartość
-  2.0.vcxproj -> C:\Users\mikus\Desktop\Visual\Git\2.0\x64\Debug\2.0.exe
